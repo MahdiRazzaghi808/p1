@@ -1,3 +1,3 @@
-alert("hello")
-alert("my name is mahdi")
 alert("kooooooooooooooooo")
+alert("mmmmm")
+alert("78555")
